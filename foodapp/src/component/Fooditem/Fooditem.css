@@ -1,0 +1,55 @@
+.main-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+  
+}
+
+.card{
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.8);
+    margin: 1rem 0rem;
+    border-radius: 12px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+    width: 45%;
+    /* text-align: center; */
+}
+.card1{
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.8);
+    margin: 1rem 0rem;
+    border-radius: 12px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+    list-style: none;
+    /* width: 100%; */
+    /* text-align: center; */
+}
+.itemname{
+    font-size:large;
+    font-weight: 800;
+}
+.gradient{
+    font-family:Arial, Helvetica, sans-serif;
+    font:italic small-caps bold 20px/30px Georgia, serif;
+}
+.price{
+    color: red;
+}
+
+.right1{
+    float:right;
+    margin-top: -60px;
+}
+
+.right1 input{
+    /* display: block; */
+    width: 30px;
+}
+.rightButton{
+    float: right;
+    margin-top: -30px;
+
+}
